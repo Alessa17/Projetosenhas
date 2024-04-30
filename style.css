@@ -6,13 +6,13 @@
 
     --branco: white;
 
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #06080a;
 
-    --fundo-senha: #00244D;
+    --fundo-senha: #df72ae;
 
-    --fundo-texto: #001E40;
+    --fundo-texto: #0a0a0a;
 
-    --borda: #0075FF;
+    --borda: #28ee0d;
 
     --roboto: 'Roboto', sans-serif;
 
@@ -258,13 +258,13 @@ label{
 
     width: 25%;
 
-    background-color: #E71B32; 
+    background-color: #f30e0e; 
 
 }
 
 .media{
 
-    background-color: #FAF408;
+    background-color: #15cebe;
 
     width: 50%;
 
@@ -272,7 +272,7 @@ label{
 
 .forte{
 
-    background-color: #00FF85;
+    background-color: #0eff06;
 
     width: 100%;
 
